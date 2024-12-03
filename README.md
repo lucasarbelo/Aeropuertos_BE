@@ -1,4 +1,5 @@
 ﻿# Proyecto Aeropuerto
+[![Dynamic JSON Badge](https://img.shields.io/badge/Lang-Es-blue)](https://github.com/lucasarbelo/Aeropuertos_BE/blob/main/README.es.md)
 ##  Clases
 Para este proyecto, se utilizaron clases de java para generar los objetos de aeropuertos, conexiones, pasajeros y vuelos.
 ![enter image description here](https://images.pexels.com/photos/29571703/pexels-photo-29571703/free-photo-of-avion-de-virgin-australia-aterrizando-en-el-aeropuerto-de-melbourne.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
