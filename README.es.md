@@ -1,5 +1,5 @@
 ﻿# Proyecto Aeropuerto
-![Dynamic JSON Badge]([https://github.com/lucasarbelo/Aeropuertos_BE/blob/main/README.md](https://img.shields.io/badge/Lang-En-blue))
+![Dynamic JSON Badge]([https://github.com/lucasarbelo/Aeropuertos_BE/main/README.md](https://img.shields.io/badge/Lang-En-blue))
 
 ##  Clases
 Para este proyecto, se utilizaron clases de java para generar los objetos de aeropuertos, conexiones, pasajeros y vuelos.
