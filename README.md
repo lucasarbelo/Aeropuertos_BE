@@ -2,7 +2,7 @@
 [![Dynamic JSON Badge](https://img.shields.io/badge/Lang-Es-blue)](https://github.com/lucasarbelo/Aeropuertos_BE/blob/main/README.es.md)
 ## Classes
 For this project, java classes were used to generate the airport, connections, passengers and flights objects.
-![enter image description here](https://images.pexels.com/photos/29571703/pexels-photo-29571703/free-photo-of-avion-de-virgin-australia-aterrizando-en-el-aeropuerto-de-melbourne.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+
 ## Organization
 For the organization side, the different TADS are generated, in this case I used binary search trees to organize the airlines and passengers, while for the airports I used a graph, since it was necessary to connect them in a free way, since a connection can be between any airport.
 
