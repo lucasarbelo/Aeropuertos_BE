@@ -1,5 +1,14 @@
 ﻿# Airport Project
 [![Dynamic JSON Badge](https://img.shields.io/badge/Lang-Es-blue)](https://github.com/lucasarbelo/Aeropuertos_BE/blob/main/README.es.md)
+
+## Airport Management System | Java and Data Structures
+
+An application developed in Java for managing airports, passengers, airlines, and flights, implementing advanced data structures and search and optimization algorithms.
+
+The project uses binary search trees and graphs to model the relationships between entities, incorporating BFS traversals and Dijkstra's algorithm for analyzing routes and connections.
+
+Technologies: Java, Binary Search Trees (BSTs), Graphs, BFS, and Dijkstra’s algorithm.
+
 ## Classes
 For this project, java classes were used to generate the airport, connections, passengers and flights objects.
 
