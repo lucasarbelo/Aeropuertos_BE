@@ -1,6 +1,14 @@
 ﻿# Proyecto Aeropuerto
 [![Dynamic JSON Badge](https://img.shields.io/badge/Lang-En-blue)](https://github.com/lucasarbelo/Aeropuertos_BE/blob/main/README.md)
 
+## Sistema de Gestión de Aeropuertos | Java y Estructuras de Datos
+
+Aplicación desarrollada en Java para la administración de aeropuertos, pasajeros, aerolíneas y vuelos, implementando estructuras de datos avanzadas y algoritmos de búsqueda y optimización.
+
+El proyecto utiliza árboles binarios de búsqueda y grafos para modelar las relaciones entre entidades, incorporando recorridos BFS y el algoritmo de Dijkstra para el análisis de rutas y conexiones.
+
+Tecnologías: Java, Árboles Binarios de Búsqueda (ABB), Grafos, BFS y Dijkstra.
+
 ##  Clases
 Para este proyecto, se utilizaron clases de java para generar los objetos de aeropuertos, conexiones, pasajeros y vuelos.
 
